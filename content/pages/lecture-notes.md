@@ -102,7 +102,7 @@ Course notes ([PDF]({{< baseurl >}}/resources/mites_268s10_ses5_confour))
 
 Slides ([PDF]({{< baseurl >}}/resources/mites_268s10_ses5_slides))
 
-Reading: Allis, Victor. "A Knowledge-Based Approach of Connect-Four: The Game is Solved: White Wins." _Department of Mathematics and Computer Science_. Vrije Universiteit, Amsterdam, The Netherlands. Master's Thesis, October 1998. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.informatik.uni-trier.de/~fernau/DSL0607/Masterthesis-Viergewinnt.pdf))
+Reading: Allis, Victor. "A Knowledge-Based Approach of Connect-Four: The Game is Solved: White Wins." _Department of Mathematics and Computer Science_. Vrije Universiteit, Amsterdam, The Netherlands. Master's Thesis, October 1998. ([PDF](http://www.informatik.uni-trier.de/~fernau/DSL0607/Masterthesis-Viergewinnt.pdf))
 
 
 {{< tdclose >}}
